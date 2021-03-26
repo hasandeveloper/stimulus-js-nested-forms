@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# stimulus-js-nested-forms
+# stimulus-js-nested-forms link to learn https://www.driftingruby.com/episodes/nested-forms-from-scratch-with-stimulusjs
